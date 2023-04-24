@@ -1,6 +1,6 @@
 # Hi there👋, welcome to my Github Profile
 
-I'm a Self driven Enthusiastic Web developer constantly experimenting with new technologies. 
+I'm a Self driven Enthusiastic developer constantly experimenting with new technologies. 
 
 ## Languages and Tools
 <p align="left"> 
